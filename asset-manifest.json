@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ephemerian.github.io/goit-react-hw-01-components/static/css/main.1eab810e.css",
-    "main.js": "/ephemerian.github.io/goit-react-hw-01-components/static/js/main.90fa339f.js",
-    "index.html": "/ephemerian.github.io/goit-react-hw-01-components/index.html",
-    "main.1eab810e.css.map": "/ephemerian.github.io/goit-react-hw-01-components/static/css/main.1eab810e.css.map",
-    "main.90fa339f.js.map": "/ephemerian.github.io/goit-react-hw-01-components/static/js/main.90fa339f.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.1eab810e.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.90fa339f.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.1eab810e.css.map": "/goit-react-hw-01-components/static/css/main.1eab810e.css.map",
+    "main.90fa339f.js.map": "/goit-react-hw-01-components/static/js/main.90fa339f.js.map"
   },
   "entrypoints": [
     "static/css/main.1eab810e.css",
