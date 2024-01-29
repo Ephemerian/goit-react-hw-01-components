@@ -1,0 +1,22 @@
+.transactionHistory {
+  width: 450px;
+  margin: 0 auto;
+  padding: 15px 0;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.tableHeader {
+  background-color: #e64c70;
+  height: 30px;
+}
+.tableTitle {
+  color: white;
+}
+.tableBody {
+}
+.tableRow:nth-child(2n) {
+  background-color: #ecf1f4;
+}
+.tableContent {
+  height: 30px;
+  text-align: center;
+}
