@@ -20,7 +20,6 @@ export const Transaction = ({ items }) => {
                 </tr>
        })}
     
-    
   </tbody>
 </table>)
 }
